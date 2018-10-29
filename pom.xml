@@ -10,6 +10,14 @@
     <packaging>war</packaging>
 
 
+<developers>
+<developer>
+<name>Yara Marques</name>
+<email>yaya.marques09@gmail.com</email>
+</developer>
+</developers>
+
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <failOnMissingWebXml>false</failOnMissingWebXml>
